@@ -107,4 +107,4 @@ Start with `dataExploration.ipynb` for schema context, then `dataCleaning.ipynb`
 
 ## Author
 
-**Your Name** — [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Your Name** — [LinkedIn](www.linkedin.com/in/riyachirkulwar07) · [GitHub](https://github.com/RiyaChirkulwar/Hospitality-Data-Analytics)
